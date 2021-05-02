@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Zhu013
-- 👀 I’m interested in web...
-- 🌱 I’m currently learning web memoryshell...
-- 💞️ I’m looking to collaborate on web...
-- 📫 liot
+- 👀 I’m interested in web security
+- 🌱 I’m currently learning java
+- 💞️ I’m looking to collaborate on web security
+- 📫 maybe sometimes
 
 <!---
 Zhu013/Zhu013 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
