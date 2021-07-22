@@ -2,7 +2,7 @@
 - 👀 I’m interested in web security
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on web security
-- 📫 maybe sometimes
+- 📫 fxdsec@gmail.com
 
 <!---
 Zhu013/Zhu013 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
